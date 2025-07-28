@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Optional build output
+build/
+out/
+coverage/
+
+# Editor settings
+*.swp
+*.swo
+
+# Vite
+.cache/
